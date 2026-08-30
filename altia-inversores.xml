@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Altia - Noticias para inversores</title>
+<link>https://www.altiacompany.com/es/altia/inversores-accionistas</link>
+<description>Noticias oficiales para inversores y accionistas de Altia</description>
+<language>es</language>
+<lastBuildDate>Sun, 30 Aug 2026 16:50:49 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>2025: un año de crecimiento, integración y una base más fuerte para seguir avanzando</title>
+<link>https://www.altiacompany.com/es/insights/noticias/informe-resultados-2025</link>
+<guid isPermaLink="true">https://www.altiacompany.com/es/insights/noticias/informe-resultados-2025</guid>
+<pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+<description>Cerramos 2025 con mejores resultados y una base todavía más firme para seguir construyendo el futuro</description>
+</item>
+<item>
+<title>Avance Resultados 2025</title>
+<link>https://www.altiacompany.com/es/insights/noticias/avance-resultados-2025</link>
+<guid isPermaLink="true">https://www.altiacompany.com/es/insights/noticias/avance-resultados-2025</guid>
+<pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+<description>Publicamos nuestro avance de resultados, cerrando 2025 con una facturación de 315,3 millones de euros en 2025, un 23,3% más que en 2024</description>
+</item>
+</channel>
+</rss>
